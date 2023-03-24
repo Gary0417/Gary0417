@@ -1,9 +1,10 @@
 # Hi there 👋 Welcome to Zi Xun's GitHub Profile.
+<a href="https://www.youtube.com/@garytanzx"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/zi-xun-tan/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
 
 <!--
 **Gary0417/Gary0417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<a href="https://www.youtube.com/@garytanzx"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/zi-xun-tan/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

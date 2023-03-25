@@ -1,5 +1,5 @@
 # Hi there 👋 Welcome to Zi Xun's GitHub Profile.
-- 🔭 I’m currently studying Artificial Intelligence at TH Deggendorf.
+- 🔭 I’m currently studying Artificial Intelligence at Deggendorf Institute of Technology.
 - 🌱 I’m interested in Machine Learning and Data Science.
 
 <a href="https://www.youtube.com/@garytanzx"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;

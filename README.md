@@ -1,7 +1,7 @@
 # Hi there 👋 Welcome to Zi Xun's GitHub Profile.
 - 🔭 I’m currently studying Artificial Intelligence at Deggendorf Institute of Technology.
 - 🌱 I’m interested in Machine Learning and Data Science.
-- - 📫 How to reach me: garytanzixun00@gmail.com
+- 📫 How to reach me: garytanzixun00@gmail.com
 
 <a href="https://www.zixuntan.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/zi-xun-tan/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
